@@ -122,46 +122,46 @@
       ]
     },
      {
-      "id": 105,
-      "categoryId": 3,
-      "title": "Relacionamentos Saudáveis",
-      "description": "Plano de 5 dias para fortalecer seus relacionamentos à luz da Palavra de Deus.",
-      "durationDays": 5,
-      "coverUrl": "https://example.com/covers/relacionamentos-saudaveis.jpg",
-      "structure": [
-        {
-          "day": 1,
-          "readings": [
-            { "book": "Provérbios", "abbrev": "pv", "chapter": 17, "verses": "17" },
-            { "book": "Eclesiastes", "abbrev": "ec", "chapter": 4, "verses": "9–12" }
-          ]
-        },
-        {
-          "day": 2,
-          "readings": [
-            { "book": "1 Coríntios", "abbrev": "1co", "chapter": 13, "verses": "1–7" },
-            { "book": "Colossenses", "abbrev": "cl", "chapter": 3, "verses": "12–14" }
-          ]
-        },
-        {
-          "day": 3,
-          "readings": [
-            { "book": "Efésios", "abbrev": "ef", "chapter": 4, "verses": "2–3" },
-            { "book": "Romanos", "abbrev": "rm", "chapter": 12, "verses": "9–10" }
-          ]
-        },
-        {
-          "day": 4,
-          "readings": [
-            { "book": "Tiago", "abbrev": "tg", "chapter": 1, "verses": "19–20" },
-            { "book": "Provérbios", "abbrev": "pv", "chapter": 15, "verses": "1" }
-          ]
-        },
-        {
-          "day": 5,
-          "readings": [
-            { "book": "Mateus", "abbrev": "mt", "chapter": 7, "verses": "12" },
-            { "book": "Filipenses", "abbrev": "fp", "chapter": 2, "verses": "3–4" }
+  "id": 105,
+  "categoryId": 3,
+  "title": "Relacionamentos Saudáveis",
+  "description": "Plano de 5 dias para fortalecer seus relacionamentos à luz da Palavra de Deus.",
+  "durationDays": 5,
+  "coverUrl": "https://example.com/covers/relacionamentos-saudaveis.jpg",
+  "structure": [
+    {
+      "day": 1,
+      "readings": [
+        { "abbrev": "pv", "chapter": 17, "verses": "17" },
+        { "abbrev": "ec", "chapter": 4, "verses": "9–12" }
+      ]
+    },
+    {
+      "day": 2,
+      "readings": [
+        { "abbrev": "1co", "chapter": 13, "verses": "1–7" },
+        { "abbrev": "cl", "chapter": 3, "verses": "12–14" }
+      ]
+    },
+    {
+      "day": 3,
+      "readings": [
+        { "abbrev": "ef", "chapter": 4, "verses": "2–3" },
+        { "abbrev": "rm", "chapter": 12, "verses": "9–10" }
+      ]
+    },
+    {
+      "day": 4,
+      "readings": [
+        { "abbrev": "tg", "chapter": 1, "verses": "19–20" },
+        { "abbrev": "pv", "chapter": 15, "verses": "1" }
+      ]
+    },
+    {
+      "day": 5,
+      "readings": [
+        { "abbrev": "mt", "chapter": 7, "verses": "12" },
+        { "abbrev": "fp", "chapter": 2, "verses": "3–4" }
           ]
         }
       ]
