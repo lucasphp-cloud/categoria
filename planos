@@ -133,7 +133,8 @@
           "day": 1,
           "readings": [
             { "book": "pv", "chapter": 17, "verses": "17" },
-            { "book": "ec", "chapter": 4, "verses": "9–12" }
+            { "book": "ec", "chapter": 4, "verses": "9" },
+            { "book": "ec", "chapter": 4, "verses": "12" }
           ]
         },
         {
