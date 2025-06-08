@@ -1,0 +1,170 @@
+{
+  "plans": [
+    {
+      "id": 104,
+      "categoryId": 2,
+      "title": "Como Vencer a Preguiça",
+      "description": "Plano de 7 dias com passagens bíblicas para superar a preguiça",
+      "durationDays": 7,
+      "coverUrl": "https://i.imgur.com/GV5efU1.jpeg",
+      "structure": [
+        {
+          "day": 1,
+          "readings": [
+            { "book": "pv", "chapter": 6, "verses": "6–11" },
+            { "book": "pv", "chapter": 10, "verses": "4–5" },
+            { "book": "pv", "chapter": 12, "verses": "24" }
+          ]
+        },
+        {
+          "day": 2,
+          "readings": [
+            { "book": "pv", "chapter": 13, "verses": "4" },
+            { "book": "pv", "chapter": 20, "verses": "4" },
+            { "book": "pv", "chapter": 21, "verses": "5" }
+          ]
+        },
+        {
+          "day": 3,
+          "readings": [
+            { "book": "pv", "chapter": 22, "verses": "13" },
+            { "book": "pv", "chapter": 24, "verses": "30–34" },
+            { "book": "pv", "chapter": 26, "verses": "13–16" }
+          ]
+        },
+        {
+          "day": 4,
+          "readings": [
+            { "book": "ec", "chapter": 9, "verses": "10" },
+            { "book": "cl", "chapter": 3, "verses": "23–24" }
+          ]
+        },
+        {
+          "day": 5,
+          "readings": [
+            { "book": "rm", "chapter": 12, "verses": "11" },
+            { "book": "hb", "chapter": 6, "verses": "12" }
+          ]
+        },
+        {
+          "day": 6,
+          "readings": [
+            { "book": "2ts", "chapter": 3, "verses": "10–12" },
+            { "book": "1co", "chapter": 15, "verses": "58" }
+          ]
+        },
+        {
+          "day": 7,
+          "readings": [
+            { "book": "gl", "chapter": 6, "verses": "9" },
+            { "book": "fp", "chapter": 2, "verses": "12–13" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "categoryId": 2,
+      "title": "Como Vencer a Pornografia",
+      "description": "Plano de leitura com 7 dias de passagens bíblicas para ajudar a vencer a pornografia",
+      "durationDays": 7,
+      "coverUrl": "https://imgur.com/a43wl",
+      "structure": [
+        {
+          "day": 1,
+          "readings": [
+            { "book": "mt", "chapter": 5, "verses": "27–30" },
+            { "book": "jó", "chapter": 31, "verses": "1" }
+          ]
+        },
+        {
+          "day": 2,
+          "readings": [
+            { "book": "1co", "chapter": 6, "verses": "18–20" },
+            { "book": "gl", "chapter": 5, "verses": "16–17" }
+          ]
+        },
+        {
+          "day": 3,
+          "readings": [
+            { "book": "sl", "chapter": 119, "verses": "9–11" },
+            { "book": "fp", "chapter": 4, "verses": "8" }
+          ]
+        },
+        {
+          "day": 4,
+          "readings": [
+            { "book": "1ts", "chapter": 4, "verses": "3–5" },
+            { "book": "rm", "chapter": 13, "verses": "13–14" }
+          ]
+        },
+        {
+          "day": 5,
+          "readings": [
+            { "book": "ef", "chapter": 5, "verses": "3–5" },
+            { "book": "cl", "chapter": 3, "verses": "5" }
+          ]
+        },
+        {
+          "day": 6,
+          "readings": [
+            { "book": "tg", "chapter": 1, "verses": "14–15" },
+            { "book": "hb", "chapter": 4, "verses": "15–16" }
+          ]
+        },
+        {
+          "day": 7,
+          "readings": [
+            { "book": "1jo", "chapter": 1, "verses": "9" },
+            { "book": "joao", "chapter": 8, "verses": "36" }
+          ]
+        }
+      ]
+    },
+     {
+      "id": 105,
+      "categoryId": 3,
+      "title": "Relacionamentos Saudáveis",
+      "description": "Plano de 5 dias para fortalecer seus relacionamentos à luz da Palavra de Deus.",
+      "durationDays": 5,
+      "coverUrl": "https://example.com/covers/relacionamentos-saudaveis.jpg",
+      "structure": [
+        {
+          "day": 1,
+          "readings": [
+            { "book": "Provérbios", "abbrev": "pv", "chapter": 17, "verses": "17" },
+            { "book": "Eclesiastes", "abbrev": "ec", "chapter": 4, "verses": "9–12" }
+          ]
+        },
+        {
+          "day": 2,
+          "readings": [
+            { "book": "1 Coríntios", "abbrev": "1co", "chapter": 13, "verses": "1–7" },
+            { "book": "Colossenses", "abbrev": "cl", "chapter": 3, "verses": "12–14" }
+          ]
+        },
+        {
+          "day": 3,
+          "readings": [
+            { "book": "Efésios", "abbrev": "ef", "chapter": 4, "verses": "2–3" },
+            { "book": "Romanos", "abbrev": "rm", "chapter": 12, "verses": "9–10" }
+          ]
+        },
+        {
+          "day": 4,
+          "readings": [
+            { "book": "Tiago", "abbrev": "tg", "chapter": 1, "verses": "19–20" },
+            { "book": "Provérbios", "abbrev": "pv", "chapter": 15, "verses": "1" }
+          ]
+        },
+        {
+          "day": 5,
+          "readings": [
+            { "book": "Mateus", "abbrev": "mt", "chapter": 7, "verses": "12" },
+            { "book": "Filipenses", "abbrev": "fp", "chapter": 2, "verses": "3–4" }
+          ]
+        }
+      ]
+    }
+  ]
+}
