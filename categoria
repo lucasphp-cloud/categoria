@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Leitura em 1 Ano",
+      "description": "Planos para ler a Bíblia inteira em 365 dias"
+    },
+    {
+      "id": 2,
+      "name": "Temáticos",
+      "description": "Planos de leitura focados em temas específicos"
+    },
+    {
+      "id": 3,
+      "name": "Relacionamentos",
+      "description": "Planos bíblicos sobre relacionamentos saudáveis, casamento e convivência"
+    }
+  ]
+}
