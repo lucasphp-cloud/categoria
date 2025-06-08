@@ -121,47 +121,47 @@
         }
       ]
     },
-     {
-  "id": 105,
-  "categoryId": 3,
-  "title": "Relacionamentos Saudáveis",
-  "description": "Plano de 5 dias para fortalecer seus relacionamentos à luz da Palavra de Deus.",
-  "durationDays": 5,
-  "coverUrl": "https://example.com/covers/relacionamentos-saudaveis.jpg",
-  "structure": [
     {
-      "day": 1,
-      "readings": [
-        { "book": "pv", "chapter": 17, "verses": "17" },
-        { "book": "ec", "chapter": 4, "verses": "9–12" }
-      ]
-    },
-    {
-      "day": 2,
-      "readings": [
-        { "book": "1co", "chapter": 13, "verses": "1–7" },
-        { "book": "cl", "chapter": 3, "verses": "12–14" }
-      ]
-    },
-    {
-      "day": 3,
-      "readings": [
-        { "book": "ef", "chapter": 4, "verses": "2–3" },
-        { "book": "rm", "chapter": 12, "verses": "9–10" }
-      ]
-    },
-    {
-      "day": 4,
-      "readings": [
-        { "book": "tg", "chapter": 1, "verses": "19–20" },
-        { "book": "pv", "chapter": 15, "verses": "1" }
-      ]
-    },
-    {
-      "day": 5,
-      "readings": [
-        { "book": "mt", "chapter": 7, "verses": "12" },
-        { "book": "fp", "chapter": 2, "verses": "3–4" }
+      "id": 106,
+      "categoryId": 3,
+      "title": "Relacionamentos Saudáveis",
+      "description": "Plano de 5 dias para fortalecer seus relacionamentos à luz da Palavra de Deus.",
+      "durationDays": 5,
+      "coverUrl": "https://example.com/covers/relacionamentos-saudaveis.jpg",
+      "structure": [
+        {
+          "day": 1,
+          "readings": [
+            { "book": "pv", "chapter": 17, "verses": "17" },
+            { "book": "ec", "chapter": 4, "verses": "9–12" }
+          ]
+        },
+        {
+          "day": 2,
+          "readings": [
+            { "book": "1co", "chapter": 13, "verses": "1–7" },
+            { "book": "cl", "chapter": 3, "verses": "12–14" }
+          ]
+        },
+        {
+          "day": 3,
+          "readings": [
+            { "book": "ef", "chapter": 4, "verses": "2–3" },
+            { "book": "rm", "chapter": 12, "verses": "9–10" }
+          ]
+        },
+        {
+          "day": 4,
+          "readings": [
+            { "book": "tg", "chapter": 1, "verses": "19–20" },
+            { "book": "pv", "chapter": 15, "verses": "1" }
+          ]
+        },
+        {
+          "day": 5,
+          "readings": [
+            { "book": "mt", "chapter": 7, "verses": "12" },
+            { "book": "fp", "chapter": 2, "verses": "3–4" }
           ]
         }
       ]
