@@ -132,36 +132,36 @@
     {
       "day": 1,
       "readings": [
-        { "abbrev": "pv", "chapter": 17, "verses": "17" },
-        { "abbrev": "ec", "chapter": 4, "verses": "9–12" }
+        { "book": "pv", "chapter": 17, "verses": "17" },
+        { "book": "ec", "chapter": 4, "verses": "9–12" }
       ]
     },
     {
       "day": 2,
       "readings": [
-        { "abbrev": "1co", "chapter": 13, "verses": "1–7" },
-        { "abbrev": "cl", "chapter": 3, "verses": "12–14" }
+        { "book": "1co", "chapter": 13, "verses": "1–7" },
+        { "book": "cl", "chapter": 3, "verses": "12–14" }
       ]
     },
     {
       "day": 3,
       "readings": [
-        { "abbrev": "ef", "chapter": 4, "verses": "2–3" },
-        { "abbrev": "rm", "chapter": 12, "verses": "9–10" }
+        { "book": "ef", "chapter": 4, "verses": "2–3" },
+        { "book": "rm", "chapter": 12, "verses": "9–10" }
       ]
     },
     {
       "day": 4,
       "readings": [
-        { "abbrev": "tg", "chapter": 1, "verses": "19–20" },
-        { "abbrev": "pv", "chapter": 15, "verses": "1" }
+        { "book": "tg", "chapter": 1, "verses": "19–20" },
+        { "book": "pv", "chapter": 15, "verses": "1" }
       ]
     },
     {
       "day": 5,
       "readings": [
-        { "abbrev": "mt", "chapter": 7, "verses": "12" },
-        { "abbrev": "fp", "chapter": 2, "verses": "3–4" }
+        { "book": "mt", "chapter": 7, "verses": "12" },
+        { "book": "fp", "chapter": 2, "verses": "3–4" }
           ]
         }
       ]
