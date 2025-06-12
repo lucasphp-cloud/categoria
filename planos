@@ -62,68 +62,6 @@
         }
       ]
     },
-{
-      "id": 2,
-      "categoryId": 1,
-      "title": "leitura em 1 ano",
-      "description": "Plano de 365 dias com passagens bíblicas",
-      "durationDays": 365,
-      "coverUrl": "https://marista.org.br/wp-content/uploads/2022/09/shutterstock_588422027-Large.jpeg",
-      "structure": [
-        {
-          "day": 1,
-          "readings": [
-            { "book": "pv", "chapter": 6, "verses": "6–11" },
-            { "book": "pv", "chapter": 10, "verses": "4–5" },
-            { "book": "pv", "chapter": 12, "verses": "24" }
-          ]
-        },
-        {
-          "day": 2,
-          "readings": [
-            { "book": "pv", "chapter": 13, "verses": "4" },
-            { "book": "pv", "chapter": 20, "verses": "4" },
-            { "book": "pv", "chapter": 21, "verses": "5" }
-          ]
-        },
-        {
-          "day": 3,
-          "readings": [
-            { "book": "pv", "chapter": 22, "verses": "13" },
-            { "book": "pv", "chapter": 24, "verses": "30–34" },
-            { "book": "pv", "chapter": 26, "verses": "13–16" }
-          ]
-        },
-        {
-          "day": 4,
-          "readings": [
-            { "book": "ec", "chapter": 9, "verses": "10" },
-            { "book": "cl", "chapter": 3, "verses": "23–24" }
-          ]
-        },
-        {
-          "day": 5,
-          "readings": [
-            { "book": "rm", "chapter": 12, "verses": "11" },
-            { "book": "hb", "chapter": 6, "verses": "12" }
-          ]
-        },
-        {
-          "day": 6,
-          "readings": [
-            { "book": "2ts", "chapter": 3, "verses": "10–12" },
-            { "book": "1co", "chapter": 15, "verses": "58" }
-          ]
-        },
-        {
-          "day": 7,
-          "readings": [
-            { "book": "gl", "chapter": 6, "verses": "9" },
-            { "book": "fp", "chapter": 2, "verses": "12–13" }
-          ]
-        }
-      ]
-    },
     {
       "id": 3,
       "categoryId": 2,
